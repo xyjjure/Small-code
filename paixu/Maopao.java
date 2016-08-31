@@ -15,5 +15,4 @@ public class Maopao {
     		 System.out.print(a[i]+" ");
      }
 		
-
 }

@@ -22,7 +22,7 @@ public class Quicksort {
 		pivot = partition(a,left,right);
 		quick(a,left,pivot-1);
 		quick(a,pivot+1,right);
-		
+  	
 	}
 
 }
